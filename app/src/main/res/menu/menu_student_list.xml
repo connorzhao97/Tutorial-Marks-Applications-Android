@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/app_bar_add_student"
+        android:icon="@drawable/ic_add_user"
+        android:title="Add Student"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/app_bar_share_socres"
+        android:icon="@drawable/ic_share"
+        android:title="Share All Scores"
+        app:showAsAction="ifRoom" />
+</menu>

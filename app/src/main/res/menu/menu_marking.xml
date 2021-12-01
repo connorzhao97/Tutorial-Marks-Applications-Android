@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/app_bar_management"
+        android:icon="@drawable/ic_profile"
+        android:title="Students Management"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/app_bar_summary"
+        android:icon="@drawable/ic_summary"
+        android:title="Summary"
+        app:showAsAction="ifRoom" />
+</menu>

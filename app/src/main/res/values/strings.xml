@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Tutorial Marks APP</string>
+    <string name="marking_page">Marking</string>
+    <string name="student_list_page">Student List</string>
+    <string name="add_student_page">Add A New Student</string>
+    <string name="student_details_page">Student Details</string>
+    <string name="student_name">Student Name:</string>
+    <string name="student_id">Student ID:</string>
+    <string name="marking_attendance">Attendance</string>
+    <string name="txt_summary_grade">Summary Grade:</string>
+    <string name="txt_search">Search Student:</string>
+    <string name="hint_student_name_id">Search by Student Name or ID</string>
+    <string name="weekly_summary_page">Weekly Summary</string>
+    <string name="txt_select_week">Select Week:</string>
+    <string name="txt_week">Week:</string>
+    <string name="txt_marking_scheme">Marking Scheme:</string>
+    <string name="txt_check_point1">Check Point 1</string>
+    <string name="txt_check_point2">Check Point 2</string>
+    <string-array name="weeks">
+        <item>week1</item>
+        <item>week2</item>
+        <item>week3</item>
+        <item>week4</item>
+        <item>week5</item>
+        <item>week6</item>
+        <item>week7</item>
+        <item>week8</item>
+        <item>week9</item>
+        <item>week10</item>
+        <item>week11</item>
+        <item>week12</item>
+    </string-array>
+    <string-array name="schemes">
+        <item>Attendance</item>
+        <item>Multiple Checkpoints</item>
+        <item>Score out of X</item>
+        <item>Grade Level (HD)</item>
+        <item>Grade Level (A)</item>
+    </string-array>
+</resources>

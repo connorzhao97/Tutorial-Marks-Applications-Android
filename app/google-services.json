@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "412617794969",
+    "project_id": "kit305-607-9f3a2",
+    "storage_bucket": "kit305-607-9f3a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412617794969:android:0b09a7bb291b1616335f08",
+        "android_client_info": {
+          "package_name": "au.edu.utas.kit305.tutorial05"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412617794969-gqq1dk7qjertqv3959mr50ho9dhet23m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_xa5I1wy2vnQbnQ8t7_MsMKk0jOIZbDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412617794969-gqq1dk7qjertqv3959mr50ho9dhet23m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412617794969:android:8f35f4ef5f298a0b335f08",
+        "android_client_info": {
+          "package_name": "au.edu.utas.username.tabbedactivitysample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412617794969-gqq1dk7qjertqv3959mr50ho9dhet23m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_xa5I1wy2vnQbnQ8t7_MsMKk0jOIZbDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412617794969-gqq1dk7qjertqv3959mr50ho9dhet23m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412617794969:android:e7922eefcd92cf74335f08",
+        "android_client_info": {
+          "package_name": "au.edu.utas.yucongz.assignment2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412617794969-gqq1dk7qjertqv3959mr50ho9dhet23m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_xa5I1wy2vnQbnQ8t7_MsMKk0jOIZbDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412617794969-gqq1dk7qjertqv3959mr50ho9dhet23m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
